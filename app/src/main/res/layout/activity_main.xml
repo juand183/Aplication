@@ -10,7 +10,7 @@
 <Button
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="Hola puto"
+    android:text="Hola"
     android:theme="@style/RaiseButtonDark"/>
 
     <ImageButton
@@ -18,6 +18,14 @@
         android:layout_height="wrap_content"
         android:src="@drawable/save_icon"
         android:theme="@style/RaiseButtonDark"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="hola"
+        android:theme="@style/RaiseButtonDark"
+        android:drawableLeft="@drawable/save_icon"
+        android:drawablePadding="5dp"/>
 
 
 </LinearLayout>
