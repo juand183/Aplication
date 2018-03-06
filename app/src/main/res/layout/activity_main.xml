@@ -13,5 +13,11 @@
     android:text="Hola puto"
     android:theme="@style/RaiseButtonDark"/>
 
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/save_icon"
+        android:theme="@style/RaiseButtonDark"/>
+
 
 </LinearLayout>
