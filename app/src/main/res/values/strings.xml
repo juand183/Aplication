@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Aplication</string>
+    <string name="itm_str_options">options</string>
+    <string name="itm_str_close">close</string>
 </resources>
